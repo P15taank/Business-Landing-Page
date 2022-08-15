@@ -12,18 +12,20 @@ body {
   background-color: #718093;
 }
 .headImg {
-  height: 550px;
-  width: 450px;
+  height: 95%;
+  width: 100%;
   margin-bottom: 10px;
 }
 
 .headText {
   font-size: 75px;
   font-weight: 600;
+
 }
 .headPara {
-  font-size: 20px;
+  font-size: 18px;
   width: 500px;
+  color: gray;
   /* background-color: aqua; */
 }
 .input {
