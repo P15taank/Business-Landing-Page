@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap");
+* {
+  font-family: "PT Sans Narrow", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+body {
+}
+.head {
+  /* height: 750px; */
+  /* width: 100%; */
+  background-color: #718093;
+}
+.headImg {
+  height: 550px;
+  width: 450px;
+  margin-bottom: 10px;
+}
+
+.headText {
+  font-size: 75px;
+  font-weight: 600;
+}
+.headPara {
+  font-size: 20px;
+  width: 500px;
+  /* background-color: aqua; */
+}
+.input {
+  background-color: #fff;
+  /* padding: 5px; */
+  padding-left: 15px;
+  display: inline-block;
+  color: gray;
+  margin-top: 20px;
+}
+.green {
+  cursor: pointer;
+  padding: 10px 25px;
+  border: 0;
+  background-color: #55ac98;
+  color: #fff;
+  font-size: 1.1rem;
+}
+.target {
+  margin-top: 50px;
+  font-size: 45px;
+  font-weight: 500;
+}
+.heroHeading {
+  font-weight: 700;
+}
+.heroText {
+  font-size: 22px;
+  color: gray;
+}
+
+.Teamimg {
+  height: 95%;
+  width: 100%;
+  /* margin-left:20%; */
+  /* width: 80%; */
+}
+.cardImg {
+  height: 100%;
+  width: 90%;
+}
+.card2Img {
+  height: 80%;
+  width: 95%;
+}
+.cardHeading {
+  font-size: 45px;
+}
+.cardPare {
+  font-size: 18px;
+  color: gray;
+}
+.creativeheading {
+  font-size: 45px;
+  /* font-weight: 700; */
+}
+.memberImg {
+  height: 80%;
+  width: 85%;
+}
+
+.seeMore {
+  cursor: pointer;
+  padding: 10px 25px;
+  border: 0;
+  background-color: #55ac98;
+  color: #fff;
+  font-size: 1.3rem;
+  width: 9.375rem;
+}
+.socials {
+/* margin-left: 20%; */
+/* margin-top: -40px; */
+}
+.socials span {
+  cursor: pointer;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 5px;
+  border-radius: 50%;
+  background-color: #fff;
+  text-align: center;
+}
